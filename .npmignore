@@ -1,0 +1,11 @@
+src/
+tests/
+*.ts
+*.tsx
+jest.config.js
+tsconfig.json
+.eslintrc
+.prettierrc
+node_modules/
+coverage/
+.history
